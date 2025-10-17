@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammed
 
-<!--
-**Khwarizmi780/Khwarizmi780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Python Developer** passionate about backend development, web automation, and IoT.  
+I love building projects that connect code with the real world — from Django web apps to ESP32 and Raspberry Pi IoT devices.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+- 🔭 Currently working on: Django REST APIs & IoT integrations  
+- 🌱 Learning: React & Cloud Deployment (AWS)  
+- 💬 Ask me about: Python, Django, Flask, Automation, and IoT  
+- ⚡ Fun fact: I automate everything — from data scraping to device control  
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Programming & Frameworks
+- **Python** (Django, Flask, FastAPI)
+- **JavaScript** (React)
+- **PHP** (Laravel basics)
+- **HTML5**, **CSS3**, **Bootstrap**
+
+#### 🤖 Automation & Web Scraping
+- **BeautifulSoup**, **Selenium**, **Requests**
+- **Python Scripting & Automation** (data cleaning, bots, task schedulers)
+- **ETL basics** (extract, transform, load data pipelines)
+
+#### 🗃️ Databases
+- **PostgreSQL**
+- **MySQL**
+- **SQLite**
+
+#### 🔌 IoT & Embedded Systems
+- **Arduino**
+- **ESP32 / ESP8266**
+- **Raspberry Pi**
+- **MicroPython**
+
+#### ☁️ Tools & DevOps
+- **Git / GitHub**
+- **Linux / Terminal**
+- **VS Code**
+- **Docker** (basic)
+- **Postman** for API testing
+
+---
+
+### 📈 GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khwarizmi780&show_icons=true&theme=tokyonight)
+
+---
+
+### 🌐 Connect with Me
+
+- ✉️ Email: simoatk@yahoo.com

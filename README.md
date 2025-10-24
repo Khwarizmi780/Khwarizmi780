@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammed
 
-I'm a **Python Developer** passionate about backend development, web automation, and IoT.  
+I'm a **Python Developer** passionate about backend development. web automation, and IoT.  
 I love building projects that connect code with the real world — from Django web apps to ESP32 and Raspberry Pi IoT devices.
 
 ---
